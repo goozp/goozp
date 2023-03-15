@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **Flutter, Webassembly**
 
+- 🔋 I most commonly used daily **Go, PHP**
+
+- 🖥️ I am currently working in the field of e-commerce
+- 
 - 📝 I regularly write articles on [goozp](https://www.goozp.com/)
 
-- 💬 I most commonly used daily **Go, PHP**
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔧 Languages and Tools :</h3>
 <p align="left"> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
@@ -17,11 +19,11 @@
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
 </p>
 
-<p align="left"> 
+<p align="left">
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://webassembly.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" alt="webassembly" width="40" height="40"/></a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 </p>
-
 
 [//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goozp&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,css,html" alt="goozp" /></p>)
 
@@ -32,3 +34,7 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=goozp&" alt="goozp" />
 </p>
+
+
+<!--START_SECTION:goozp-->
+<!--END_SECTION:goozp-->
