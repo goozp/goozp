@@ -25,12 +25,12 @@
 
 [//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goozp&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,css,html" alt="goozp" /></p>)
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=goozp&count_private=true&show_icons=true&locale=en" alt="goozp" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=goozp&" alt="goozp" />
-</p>
+</p> -->
 
 
